@@ -1,11 +1,11 @@
 {
-    "title" : "Welcome to Tam's Lab!",
+    "title" : "Welcome to BetterBag!",
     "message" : "Please wait while we configure your Mac...",
     "blurscreen":true,
     "moveable":false,
     "ontop":true,
     "button1text": "Exit (Installations will continue)",
-    "icon" : "/Library/Application Support/Microsoft/IntuneScripts/Swift dialog/icons/mbp16.png",
+    "icon" : "/Library/Application Support/Microsoft/IntuneScripts/Swift dialog/icons/betterbag.png",
     "centreicon":false,
     "iconsize" : "400",
     "listitem" : [
