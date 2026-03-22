@@ -9,9 +9,10 @@
     "centreicon":false,
     "iconsize" : "400",
     "listitem" : [
-      {"title" : "Company Portal", "icon" : "/Library/Application Support/Microsoft/IntuneScripts/Swift dialog/icons/CompanyPortal.png", "status" : "pending", "statustext" : "Pending"},
       {"title" : "Microsoft Office", "icon" : "/Library/Application Support/Microsoft/IntuneScripts/Swift dialog/icons/office.png", "status" : "pending", "statustext" : "Pending"},
-      {"title" : "Microsoft Edge", "icon" : "/Library/Application Support/Microsoft/IntuneScripts/Swift dialog/icons/Edge.png", "status" : "pending", "statustext" : "Pending"}
+      {"title" : "Microsoft Edge", "icon" : "/Library/Application Support/Microsoft/IntuneScripts/Swift dialog/icons/Edge.png", "status" : "pending", "statustext" : "Pending"},
+      {"title" : "Microsoft VS Code", "icon" : "/Library/Application Support/Microsoft/IntuneScripts/Swift dialog/icons/vscode.png", "status" : "pending", "statustext" : "Pending"},
+      {"title" : "Company Portal", "icon" : "/Library/Application Support/Microsoft/IntuneScripts/Swift dialog/icons/CompanyPortal.png", "status" : "pending", "statustext" : "Pending"}
     ]
   }
 
